@@ -29,6 +29,8 @@ I am Ma Lea Jane Medrano, 22 years of age. I am from Bauan Batangas. I'm activel
 * Customer Support: Skilled in providing technical assistance and troubleshooting guidance to users via phone calls, emails, and helpdesk tickets.
 * Virtualization Platforms: Proficient in utilizing Microsoft Hyper-V for virtual machine deployment and management.
 
+# TECHNOLOGY PROFICIENCIES
+
 
 
 
