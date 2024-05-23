@@ -52,5 +52,9 @@ Date: April 04, 2024
 AWS CLOUD ARCHITECTURE 
 Date: April 19, 2024 
 
+# Connect with me
+maleajanemedrano20@gmail.com
+09066223586
+www.myresume.com
 
 
