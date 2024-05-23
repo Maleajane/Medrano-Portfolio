@@ -37,6 +37,7 @@ I am Ma Lea Jane Medrano, 22 years of age. I am from Bauan Batangas. I'm activel
 # EDUCATION
 Batangas State University - The National Engineering University | 2023 - 2024 
 Bachelor of Science in Information Technology – Major in Business Analytics 
+
 AMA Computer College - Batangas | 2019 - 2020 
 Science, Technology, Engineering, and Mathematics 
 With Honors 
