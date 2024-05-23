@@ -42,8 +42,15 @@ AMA Computer College - Batangas | 2019 - 2020
 Science, Technology, Engineering, and Mathematics 
 With Honors 
 
+# CERTIFICATIONS
+KANDI CERTIFICATE OF COMPLETION: BASICS OF HTML/CSS TRAINING 
+Date: December 13, 2023 
 
+AWS CLOUD FOUNDATIONS 
+Date: April 04, 2024
 
+AWS CLOUD ARCHITECTURE 
+Date: April 19, 2024 
 
 
 
