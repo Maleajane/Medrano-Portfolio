@@ -5,6 +5,8 @@
 </div>
 
 # About Me
+I am Ma Lea Jane Medrano, 22 years of age. I am from Bauan Batangas. I'm actively seeking out new opportunities to kick-start my career journey.
+
 
 
 
