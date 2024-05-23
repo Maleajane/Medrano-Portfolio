@@ -30,6 +30,9 @@ I am Ma Lea Jane Medrano, 22 years of age. I am from Bauan Batangas. I'm activel
 * Virtualization Platforms: Proficient in utilizing Microsoft Hyper-V for virtual machine deployment and management.
 
 # TECHNOLOGY PROFICIENCIES
+<div align="center">
+  <img src="https://github.com/Maleajane/Medrano-Portfolio/blob/main/Skills.png" alt="Skills.png" width="500"/>
+</div>
 
 
 
