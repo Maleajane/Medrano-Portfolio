@@ -54,7 +54,10 @@ Date: April 19, 2024
 
 # Connect with me
 maleajanemedrano20@gmail.com
+
 09066223586
-www.myresume.com
+
+https://www.linkedin.com/in/lea-jane-medrano
+
 
 
